@@ -1,0 +1,170 @@
+#page2{
+   
+    background-color: rgba(136, 0, 255, 0.533);
+    background-size:cover;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+#h1{
+    background-attachment: fixed;
+    background: linear-gradient(white, rgb(255, 115, 192)) ;
+    color: black;
+    text-decoration: none;
+    border: radius 2cm ;
+}
+#p{
+      background-attachment: fixed;
+    background: linear-gradient(to top, white,rgb(255, 115, 192)) ;
+    
+}
+ #box1{
+    border:5px solid;
+border-color: black;
+width: 250px;
+height: fit-content;
+background-color: antiquewhite;
+font-size: 20px;
+margin-left:  43%;
+  margin-top: 3cm;
+}
+#box2 {
+    border: 5px solid black;
+    width: 250px;
+    height: fit-content;
+    background-color: rgb(255, 157, 0);
+    font-size: 20px;
+    margin-top: 1cm;
+    /* Ändra margin-right till margin-left */
+    margin-left: 43%; 
+}
+/* 
+index--------------------------------------------------------------- 
+*/
+#body {
+    background-color: bisque}
+.h1 {
+text-align: center;
+    color: blueviolet;
+    font-family: "Press Start 2P";
+    border-style:dashed ;
+    border-width: 6px;
+    border-radius: 2cm;
+    border-color: rgb(0, 0, 0);
+    padding: 5px;
+    margin: 5px;
+}
+
+.odd {
+    text-align: center;
+    color: tomato;
+    font-size: 180%;
+    font-family: "Allerta Stencil", serif;
+    font-style: oblique;
+    font-weight: bold;
+     border-style:dashed ;
+    border-width: 3px;
+    border-radius: 2cm;
+    border-color: darkblue;
+    padding: 5px;
+    margin: 5px;
+    text-decoration: none;
+}
+
+.even {
+    text-align: center;
+    color: darkblue;
+    font-size: x-large;
+    font-family: Tektur, Georgia, "Times New Roman", Times, serif;
+    font-style: italic;
+    font-weight: bolder;
+     border-style:dashed ;
+    border-width: 3px;
+    border-radius: 2cm;
+    border-color: tomato;
+    padding: 5px;
+    margin: 5px;
+    }
+/*
+ quran----------------------------------------------------------------
+ */
+ #quran{
+    color: black;
+ }
+ #S{
+    font-family: amiri;
+    font-size: 2cm;
+ text-align: center;
+ }
+ #F{
+    font-family: amiri;
+    font-size: 1cm;
+    text-align: center;
+ }
+ #B{
+background-color: antiquewhite;
+ }
+  #Nas{
+    font-family: amiri;
+    font-size: 2cm;
+ text-align: center;
+ }
+ #N{
+    font-family: amiri;
+    font-size: 1cm;
+    text-align: center;
+    }
+    html {
+    scroll-behavior: smooth;
+}
+#goToN{
+    text-align: right;
+    font-size: 40px;
+    color: black;
+    text-decoration: none;
+}
+#goToS{
+    text-align: left;
+    font-size: 40px;
+    color: black;
+    text-decoration: none;
+}
+#alFalaq{
+font-family: amiri;
+    font-size: 2cm;
+ text-align: center;
+}
+#Falaq{
+   font-family: amiri;
+    font-size: 1cm;
+    text-align: center;
+}
+#FF{
+ text-align: right;
+    font-size: 40px;
+    color: black;
+    text-decoration: none;
+    }
+    #ThisIsFalaq{
+    text-align: left;
+    font-size: 40px;
+    color: black;
+    text-decoration: none;
+}
+#qulHua{
+font-family: amiri;
+    font-size: 2cm;
+ text-align: center;
+}
+#qul   {
+   font-family: amiri;
+    font-size: 1cm;
+    text-align: center;
+}
+#ThisIsQul{
+  text-align: left;
+    font-size: 40px;
+    color: black;
+    text-decoration: none;  
+}
